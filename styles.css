@@ -45,7 +45,6 @@
 }
 
 .container_box_logo{
-  border:solid;
   width: 40%;
   display: flex;
   justify-content: space-evenly;
